@@ -1,0 +1,21 @@
+﻿App 
+1. Iniciar sesión 
+2. Cerrar sesión
+3. Crear una sesión
+4. Crear clase
+5. Seleccionar clase
+6. Poner nombre a la clase
+7. Invitar alumnos
+8. Crear tarea
+9. Poner nombre a tarea
+10. Subir descripción a la tarea
+11. Subir tarea
+12. Poner porcentaje de evaluación de la tarea
+13. Poner calificación a las tareas
+14. Enviar tarea (subir documento, enlace, etc.)
+15. Chat personal con usuarios o profesores
+16. Calendario de actividades
+17. Poder crear apuntes por cada clase y que se guarden para poder consultarlos más adelante
+18. Abandonar una clase
+19. Subir anuncios
+20. Notificaciones personalizadas (al alumno le llegarán notificaciones de nuevas tareas o anuncios publicados por el profesor; al profesor le llegarán notificaciones de las tareas enviadas por sus alumnos o comentarios privados.
